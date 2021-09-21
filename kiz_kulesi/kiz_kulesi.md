@@ -2,25 +2,25 @@
 
 Neural style transfer için kullanılan content resim:
 
-![]("figure1.PNG")
+![](https://github.com/erdemaysenur/neural-style-transfer/blob/main/kiz_kulesi/figure1.png)
 
 Style için 2 farklı görüntü kullanıldı.
 
 Birincisi:
 
-![]("figure2.PNG")
+![](https://github.com/erdemaysenur/neural-style-transfer/blob/main/kiz_kulesi/figure2.png)
 
 İkincisi:
 
-![]("figure3.PNG")
+![](https://github.com/erdemaysenur/neural-style-transfer/blob/main/kiz_kulesi/figure3.png?raw=true)
 
 Style 1 için 600. iterasyonda üretilen resim:
 
-![]("genrated_at_iteration_600_sn.PNG")
+![](https://github.com/erdemaysenur/neural-style-transfer/blob/main/kiz_kulesi/generated_at_iteration_600_sn.png)
 
 Style 2 için 600. iterasyonda üretilen resim:
 
-![]("generated_at_iteration_600.PNG")
+![](https://github.com/erdemaysenur/neural-style-transfer/blob/main/kiz_kulesi/generated_at_iteration_600.png)
 
 ## Referans
 [Keras](https://keras.io/examples/generative/neural_style_transfer/)
