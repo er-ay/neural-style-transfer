@@ -4,7 +4,7 @@ Neural Style Transfer (Sinirsel Tarz Akarımı), verilen bir content resmi ile s
 
 
 
-![]("paper1.PNG")
+![](paper1.PNG)
 
 
 ## Stil Nasıl Aktarılıyor?
